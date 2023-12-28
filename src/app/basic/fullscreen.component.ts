@@ -17,7 +17,7 @@ import { ColumnMode } from 'projects/swimlane/ngx-datatable/src/public-api';
         </small>
       </h3>
       <ngx-datatable
-        class="material fullscreen"
+        
         style="top: 52px"
         [columnMode]="ColumnMode.force"
         [headerHeight]="50"
